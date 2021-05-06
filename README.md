@@ -62,7 +62,7 @@ _Documentation will be available after the language is more well defined_
 
 ## Roadmap
 
-See the [open issues](https://jira.cox.com/projects/CBMOCA/issues/?filter=allopenissues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Kade-Powell/Yabbi/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
