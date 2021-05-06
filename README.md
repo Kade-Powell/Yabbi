@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./yabbi.png" alt="Yabbi" height="190" />
+    <img src="./yabbi.png" alt="Yabbi" height="250" />
 <br />
 
   <p align="center">
@@ -25,7 +25,7 @@
 
 ## About The Project
 
-Yabbi is a simple, functional language that can be interpreted or compiled for execution. The goal is to combine my favorite parts of Python, JavaScript, and Rust into a general purpose language.
+<b>Yabbi</b> is a simple, functional language that can be interpreted or compiled for execution. The goal is to combine my favorite parts of Python, JavaScript, and Rust into a general purpose language.
 
 ### Built With
 
