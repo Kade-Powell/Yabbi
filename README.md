@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./yabbi.png" alt="Yabbi" height="200" />
+    <img src="./yabbi.png" alt="Yabbi" height="190" />
 <br />
 
   <p align="center">
@@ -54,9 +54,9 @@ To get a local copy up and running follow these simple steps.
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## Docs
 
-_Screen shots and instructions will be included once a MVP is developed_
+_Documentation will be available after the language is more well defined_
 
 <!-- ROADMAP -->
 
