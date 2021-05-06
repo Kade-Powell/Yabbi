@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./yabbi.png" alt="Yabbi" height="100" />
+    <img src="./yabbi.png" alt="Yabbi" height="200" />
 <br />
 
   <p align="center">
